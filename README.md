@@ -11,6 +11,7 @@
 - Linear Search
 - Strings 
 - Stack and Queue
+- Linkedlist
 - Basic math operations (addition, subtraction, multiplication, division, exponentiation)
 - Euclid’s GCD Algorithm
 - Prime Numbers, divisibility of numbers
