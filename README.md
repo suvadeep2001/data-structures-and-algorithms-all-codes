@@ -1,6 +1,6 @@
 # All Codes for Data Structures and Algorithms 
 
-![binary-search-tree-sorted-array-animation](https://user-images.githubusercontent.com/68159874/133868851-4bef3076-1891-4cc1-81d0-1dd65bbe06f5.gif)
+![0b83cd5ba24a3ebc4684dbde1823a2a4](https://user-images.githubusercontent.com/68159874/133868913-e55f0b73-83db-4c94-bf73-01546f72f3e9.gif)
 
 ## _Here I have covered all topics of Data Structures and Algorithms_ 
 
